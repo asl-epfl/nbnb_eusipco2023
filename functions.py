@@ -1,8 +1,4 @@
 import numpy as np
-from decimal import *
-from matplotlib.patches import Ellipse
-import matplotlib.transforms as transforms
-
 
 def gaussian(x, m, var):
     '''
