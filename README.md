@@ -1,3 +1,5 @@
+## Release v1.0.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8183230.svg)](https://doi.org/10.5281/zenodo.8183230)
+
 This code can be used to generate simulations similar to Fig. 1 in the following paper:
 
 V. Bordignon, M. Kayaalp, V. Matta, and A. H.  Sayed, "Social learning with non-Bayesian local updates,'' Proc. EUSIPCO, pp. 1-5, Helsinki, Finland, Sep. 2023.
